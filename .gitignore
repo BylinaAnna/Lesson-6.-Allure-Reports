@@ -16,3 +16,4 @@ gradle-app.setting
 !/gradlew.bat
 !/.allure/
 !/.idea/
+!/.idea/.gitignore
