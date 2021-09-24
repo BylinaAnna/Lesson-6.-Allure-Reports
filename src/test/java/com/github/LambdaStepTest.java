@@ -11,8 +11,10 @@ import static org.openqa.selenium.By.linkText;
 import static org.openqa.selenium.By.partialLinkText;
 
 public class LambdaStepTest {
+
     private final static String REPO = "eroshenkoam/allure-example";
     private final static String ISSUE_NUM = "68";
+
     @Test
     public void testGithubLambdaStep() {
         step("Открываем главную страницу",() ->

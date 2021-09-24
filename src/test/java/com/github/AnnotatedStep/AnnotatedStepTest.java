@@ -3,6 +3,7 @@ package com.github.AnnotatedStep;
 import org.junit.jupiter.api.Test;
 
 public class AnnotatedStepTest {
+
     private final static String REPO = "eroshenkoam/allure-example";
     private final static String ISSUE_NUM = "68";
 

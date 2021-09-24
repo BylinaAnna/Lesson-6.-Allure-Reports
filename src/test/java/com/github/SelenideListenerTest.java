@@ -8,6 +8,7 @@ import static com.codeborne.selenide.Selenide.*;
 import static org.openqa.selenium.By.*;
 
 public class SelenideListenerTest {
+
     @Test
     public void testGithubSelenide() {
         open("https://github.com/");
